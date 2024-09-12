@@ -55,3 +55,18 @@ a {
   border: 3px solid brown;
   border-radius: 5%;
 }
+
+.footer {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
